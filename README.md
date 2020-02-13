@@ -1,4 +1,4 @@
-#CLI Free Cell game
+# CLI Free Cell game
 
 ## Install requirements package
 ```pip install tabulate```
